@@ -102,12 +102,12 @@ Exit
 
 
 ## Concepts Learned:
--Basics of JDBC API.
--How to connect Java to a relational database.
--Using PreparedStatement to execute parameterized SQL safely.
--Handling ResultSet to fetch query results.
--Managing resources with try-with-resources to avoid leaks.
--Simple console menu application structure.
+- Basics of JDBC API.
+- How to connect Java to a relational database.
+- Using PreparedStatement to execute parameterized SQL safely.
+- Handling ResultSet to fetch query results.
+- Managing resources with try-with-resources to avoid leaks.
+- Simple console menu application structure.
 
 - Name: Saleha Firdous Syed Qamar
 - Domain: Java Full Stack Development
